@@ -1,1 +1,6 @@
-
+[theme]
+primaryColor = "#0088CC" # Глибокий небесно-блакитний (для кнопок і смуг)
+backgroundColor = "#FFFFFF" # Чистий білий фон (як хмарки)
+secondaryBackgroundColor = "#F0F8FF" # Ніжно-блакитний (для бічної панелі зліва)
+textColor = "#003366" # Темно-синій текст (читається краще за чорний, стиль води)
+font = "sans serif"
